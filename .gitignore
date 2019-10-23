@@ -1,4 +1,8 @@
 
+# build and models
+data/
+models/
+
 # virtualenv
 rnd-env/
 
